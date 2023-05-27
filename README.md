@@ -24,6 +24,11 @@ The following is taken into an account in order to achieve best ouput.
   <li>Collection, completion and summarisation of all outputs</li>
 </ul>
 
+<h2>Challenges</h2>
+
+Since Bastien One needs to have capability to manage tasks with different level of complexity, it will need to create different number of A.I. bots with its own logic and speciality. This will drive increased level of complexity on prioritisation, summarisation and tasks management.
+
+Another challenge is speed - analysis of multiple content (primarily video) could be heavy on resources jeopardising speed. The question about expectations on speed of outcome remains unanswered at the moment. Whilst Bastien One is expected to complete tasks faster and more efficiently than a human, the expectations may be higher.
 
 <h2>Key Elements To Success</h2>
 
