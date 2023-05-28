@@ -57,3 +57,8 @@ In general, the following key elements have been set for Bastien One to become s
   <li><a href="https://github.com/yoheinakajima/babyagi">BabyAGI</a></li>
   <li><a href="https://github.com/microsoft/JARVIS">Jarvis</a></li>
 </ul>
+
+
+<h2>Contact</h2>
+
+<a href="https://twitter.com/petrroyce">Petr Royce</a>
