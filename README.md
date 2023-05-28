@@ -61,4 +61,4 @@ In general, the following key elements have been set for Bastien One to become s
 
 <h2>Contact</h2>
 
-Feel free to reach out at <a href="https://twitter.com/petrroyce">Petr Royce</a> or via <a href="info@seedgularity.com">email</a>
+Feel free to reach out via Twitter <a href="https://twitter.com/petrroyce">@petrroyce</a> or via <a href="info@seedgularity.com">email</a>
