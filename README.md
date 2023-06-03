@@ -8,6 +8,10 @@ The goal is to develop ecosystem capable of not only completing simple tasks but
 
 Aim is to release public beta version by end of 2023.
 
+<h2>Progress</h2>
+
+Follow progress on <a href="https://twitter.com/petrroyce/status/1662577359357198340">@petrroyce</a>
+
 <h2>Overview</h2>
 
 In general, Bastien One is trying to simulate human behaviour in order to achieve goal and provide the best output.
