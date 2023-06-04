@@ -12,6 +12,12 @@ Aim is to release public beta version by end of 2023.
 
 Follow progress on <a href="https://twitter.com/petrroyce/status/1662577359357198340">@petrroyce</a>
 
+End to end Bastien One journey example: https://twitter.com/petrroyce/status/1665464579483226113
+
+Task: "Your goal is to make a presidential campaign for Bastien One who wants to become a president in 2024."
+
+Number of bots with different purpose identified, created and executed: 6
+
 <h2>Overview</h2>
 
 In general, Bastien One is trying to simulate human behaviour in order to achieve goal and provide the best output.
