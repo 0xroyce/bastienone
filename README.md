@@ -6,9 +6,15 @@ Bastien One is being developed as autonomous A.I. bot with the capacity to compl
 
 The goal is to develop ecosystem capable of not only completing simple tasks but also complex tasks, e.g. running a important parts of a business; or creating and running business by itself.
 
-Aim is to release public beta version by end of 2023.
+<h2>Updates & Progress</h2>
 
-<h2>Progress</h2>
+<h3>Updates</h3>
+
+June 7th 2023
+
+Core functionality done and decided to add web app component so we can accelerate the adoption after release. Remove beta version release aim towards end of 2023, it will be sooner.
+
+<h3>Progress</h3>
 
 Follow progress on <a href="https://twitter.com/petrroyce/status/1662577359357198340">@petrroyce</a>
 
