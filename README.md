@@ -1,5 +1,7 @@
 # Bastien One
 
+The project has been moved: <a href="https://github.com/seedgularity/Virtuoso-Edge">Virtuoso Edge</a>
+
 <i>What if we already have all that is needed to create helpful and complex autonomous AI bots?</i>
 
 Bastien One is being developed as autonomous A.I. bot with the capacity to complete complex tasks - either by itself or by creating additional specialised bots should it be required.
