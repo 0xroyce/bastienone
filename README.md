@@ -18,9 +18,9 @@ Core functionality done and decided to add web app component so we can accelerat
 
 <h3>Progress</h3>
 
-Follow progress on <a href="https://twitter.com/petrroyce/status/1662577359357198340">@petrroyce</a>
+Follow progress on <a href="https://twitter.com/0xroyce368/status/1662577359357198340">@petrroyce</a>
 
-End to end Bastien One journey example: https://twitter.com/petrroyce/status/1665464579483226113
+End to end Bastien One journey example: https://twitter.com/0xroyce369/status/1665464579483226113
 
 Task: "Your goal is to make a presidential campaign for Bastien One who wants to become a president in 2024."
 
